@@ -10,18 +10,20 @@
 # 项目展示
 
 招聘后台-首页
+![1651190231978](https://user-images.githubusercontent.com/57795566/165872558-d65cc5ab-8eb4-44f0-bc03-b03d87a18a29.png)
 
-![1651190231978](C:\Users\31009\AppData\Roaming\Typora\typora-user-images\1651190231978.png)
 
 招聘后台-候选人列表
+![1651190469752](https://user-images.githubusercontent.com/57795566/165872612-dd70567e-e73c-4ceb-a275-abc281de7e91.png)
 
-![1651190469752](C:\Users\31009\AppData\Roaming\Typora\typora-user-images\1651190469752.png)
 
 招聘后台-评估候选人
+![1651190553859](https://user-images.githubusercontent.com/57795566/165872619-ad2f5b21-25a7-4387-9803-fc310e308cfe.png)
 
-![1651190553859](C:\Users\31009\AppData\Roaming\Typora\typora-user-images\1651190553859.png)
+
 
 招聘后台-职位列表
 
-![1651190615526](C:\Users\31009\AppData\Roaming\Typora\typora-user-images\1651190615526.png)
+![1651190615526](https://user-images.githubusercontent.com/57795566/165872624-d65bb80d-94b9-4ad7-ba59-ada04128a8ec.png)
+
 
